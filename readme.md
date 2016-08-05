@@ -1,6 +1,6 @@
 #Jeremy Fryd Online Portfolio
 
-#### This is a portfolio, primarily for Jeremy Fryd's work on GitHub.
+#### This is a portfolio, primarily for Jeremy Fryd's work on GitHub. Here is the site's link: https://jkontiki.github.io/frydfolio/
 
 #### By Jeremy Fryd
 
@@ -13,7 +13,7 @@ This is a basic website, most should be able to navigate with ease. There are tw
 
 ##Support and contact details
 
-_There does exist some loose pipe for initiatives that needed to be aborted rather than fleshed out to their full potential. Advice would not go unappreciated, please make contact via the info given on the page._
+There does exist some loose pipe for initiatives that needed to be aborted rather than fleshed out to their full potential. Advice would not go unappreciated, please make contact via the info given on the page.
 
 ## Technologies Used
 

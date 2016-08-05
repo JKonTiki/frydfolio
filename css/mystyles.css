@@ -1,9 +1,10 @@
-body{
+body  {
   background-image: url("../img/wood1.jpg");
   font-family: sans-serif;
 }
+
 /*COVER SHEET
-.cover img{
+.cover img  {
   opacity: 0.7;
   width: 100%;
   height: 100%;
@@ -11,7 +12,7 @@ body{
   position: relative;
 }
 */
-.sidebar{
+.sidebar  {
   background-color:white;
   opacity: 0.5;
   width: 200px;
@@ -23,100 +24,99 @@ body{
 }
 
 
-.sidebar ul{
+.sidebar ul {
   list-style-type: none;
   padding-top: 40px;
   padding-right: 20px;
   color: grey;
 }
 
-.sidebar a{
+.sidebar a  {
   color: black;
 }
 
-.sidebar h3{
+.sidebar h3 {
   padding-left: 15px;
 }
 
-.glyphicon-globe{
+.glyphicon-globe  {
   text-align: center;
   padding: 15px 0px 15px 55px;
 }
 
-.text{
+.text {
   color: black;
   width: 500px;
   margin-left: 215px;
   float: left;
   position: fixed;
+  text-align: justify;
 }
 
-  .text .highlighted{
+.text .highlighted  {
   font-weight: bolder;
   color: white;
 }
-  .topcorner{
-    position: fixed;
-    right: 0%;
-  }
-  .pics{
-    float: right;
-    margin: 90px 15px 0px 0px;
-    padding: 15px 10px 15px 10px;
-    background-color:white;
-    opacity: .8;
 
-  }
+.topcorner  {
+  position: fixed;
+  right: 0%;
+}
 
-  .pics img{
-    width: 180px;
-    height: auto;
-  }
-
-  .icons {
+.pics {
   float: right;
-  margin: 125px 25px 0px 0px;
-  }
+  margin: 90px 15px 0px 0px;
+  padding: 15px 10px 15px 10px;
+  background-color:white;
+  opacity: .8;
+}
 
-  .icons img{
-    height: 50px;
-    width: auto;
-    opacity: .7;
-    padding-bottom: 10px;
-  }
+.pics img {
+  width: 180px;
+  height: auto;
+}
+
+.icons {
+float: right;
+margin: 125px 25px 0px 0px;
+}
+
+.icons img  {
+  height: 50px;
+  width: auto;
+  opacity: .7;
+  padding-bottom: 10px;
+}
+
 /*TEXT SHAPE
-  .circle{
-    float: right;
-    shape-outside: polygon(0 0, 100% 0, 0 100%);
-    width: 300px;
-    height: 300px;
-  }
+.circle{
+  float: right;
+  shape-outside: polygon(0 0, 100% 0, 0 100%);
+  width: 300px;
+  height: 300px;
+}
 */
 
 /*internal link scroll*/
 
-  .readmore{
-    float: right;
-    margin-top: 700px;
-    margin-right: 15px;
-    font-size: 20px;
-  }
+.readmore {
+  float: right;
+  margin-top: 700px;
+  margin-right: 15px;
+  font-size: 20px;
+}
 
-  .readmore a{
-    color:grey;
-  }
+.readmore a {
+  color:grey;
+}
 
-  .abouttext{
-    margin: 100px 0px 0px 280px;
-    float: left;
-    width: 600px;
+.abouttext  {
+  margin: 100px 0px 0px 280px;
+  float: left;
+  width: 600px;
 
-  }
+}
 
-  .abouttext h1{
-      font-size: 60px;
-    }
-
-  .abouttext h2{
-
+.abouttext h1 {
+    font-size: 60px;
   }
