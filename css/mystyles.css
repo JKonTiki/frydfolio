@@ -1,0 +1,39 @@
+body{
+  background-image: url("../img/wood1.jpg");
+  font: white;
+  font-family: sans-serif;
+}
+
+.sidebar{
+ background-color:white;
+  opacity: 0.5;
+  width: 200px;
+  /*float: left;*/
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-bottom: 110px;
+  margin-top: 40px;
+}
+
+
+.sidebar ul{
+  list-style-type: none;
+  padding-top: 25px;
+  padding-right: 20px;
+}
+
+.glyphicon-globe{
+  text-align: center;
+  padding: 15px 0px 15px 47px;
+}
+
+.main{
+  width: 500px;
+  text-align: center;
+}
+
+
+/*
+.sidebar a{
+    z-index: 1234;
+}
