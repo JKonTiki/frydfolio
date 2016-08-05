@@ -1,18 +1,17 @@
 body{
   background-image: url("../img/wood1.jpg");
-  font: white;
   font-family: sans-serif;
 }
 
 .sidebar{
- background-color:white;
+  background-color:white;
   opacity: 0.5;
   width: 200px;
-  /*float: left;*/
-  padding-top: 10px;
-  padding-left: 15px;
-  padding-bottom: 110px;
-  margin-top: 40px;
+  float: left;
+  padding-top: 60px;
+  padding-bottom: 90px;
+  margin-top: 90px;
+  position: fixed;
 }
 
 
@@ -20,20 +19,59 @@ body{
   list-style-type: none;
   padding-top: 25px;
   padding-right: 20px;
+  color: grey;
+}
+
+.sidebar a{
+  color: black;
+}
+
+.sidebar h3{
+  padding-left: 15px;
 }
 
 .glyphicon-globe{
   text-align: center;
-  padding: 15px 0px 15px 47px;
+  padding: 15px 0px 15px 55px;
 }
 
 .main{
+  color: black;
   width: 500px;
-  text-align: center;
+  margin-left: 215px;
+  float: top;
 }
 
-
-/*
-.sidebar a{
-    z-index: 1234;
+  .main .highlighted{
+  font-weight: bolder;
+  color: white;
 }
+
+  .pics{
+    float: right;
+    margin: 90px 15px 0px 0px;
+    position: fixed-right;
+    padding: 15px 10px 15px 10px;
+    background-color:white;
+    opacity: 0.75;
+
+  }
+
+  .pics img{
+    width: 180px;
+    height: auto;
+    opacity: 1;
+  }
+
+  .icons {
+  float: right;
+  position: fixed-right;
+  margin: 125px 25px 0px 0px;
+  }
+
+  .icons img{
+    height: 50px;
+    width: auto;
+    opacity: .7;
+    padding-bottom: 10px;
+  }
